@@ -1,0 +1,2 @@
+cd path
+setup.exe/configure configuration.xml
